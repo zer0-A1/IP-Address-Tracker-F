@@ -29,13 +29,9 @@ This is a solution to the [IP Address Tracker challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: https://github.com/rashidshamloo/fem_033_ip-address-tracker/
-- Solution URL (backend): https://github.com/rashidshamloo/fem_033_ip-address-tracker_backend/
-- Live Site URL: https://rashidshamloo.github.io/fem_033_ip-address-tracker/
+- Solution URL: https://github.com/zer0-A1/IP-Address-Tracker-F
+- Solution URL (backend): https://github.com/zer0-A1/IP-Address-Tracker-B
 
-### Blog posts
-
-- [Adding timeout and multiple abort signals to fetch() (TypeScript/React)](https://dev.to/rashidshamloo/adding-timeout-and-multiple-abort-signals-to-fetch-typescriptreact-33bb)
 
 ## My process
 
@@ -86,7 +82,7 @@ This is a solution to the [IP Address Tracker challenge on Frontend Mentor](http
 - Saving API choice to `localStorage` and using it as default the next time app loads
 - Implementing a back-end API using Node.js and Express 
 - Moved all Public API requests and formatting of responses to the back-end. so in the front-end i can make a request to it and receive nicely formatted JSON while the API keys are hidden.
-- What `cors` is and implementing 'cors' in the back-end API to only allow `Origin` of `https://rashidshamloo.github.io` using `cors()` middleware
+- What `cors` is and implementing 'cors' in the back-end API to only allow `Origin` of `https://zer0-a1.github.io` using `cors()` middleware
 - Implemented IP rate limiting in the back-end API using "express-rate-limit" package (later changed to 'rate-limiter-flexible')
 - Chaining multiple middlewares in Express
 - Assigning a value to multiple variables in one line using destructuring:
@@ -124,8 +120,7 @@ let [ip, isp, location, timezone] = Array(4).fill("");
 
 ## Author
 
-- Portfolio - [rashidshamloo.ir](https://www.rashidshamloo.ir)
-- Linkedin - [rashid-shamloo](https://www.linkedin.com/in/rashid-shamloo/)
-- Frontend Mentor - [@rashidshamloo](https://www.frontendmentor.io/profile/rashidshamloo)
-- Twitter - [@rashidshamloo](https://www.twitter.com/rashidshamloo)
-- Dev.to - [@rashidshamloo](https://dev.to/rashidshamloo)
+- Portfolio - [TaroShibusawa.com](https://taroshibusawa.plateful.info)
+- Linkedin - [taroshibusawa](https://www.linkedin.com/in/taro-shibusawa-76378b382/)
+- GitHub - [zer0-A1](https://github.com/zer0-A1)
+
