@@ -19,9 +19,8 @@
     "ip",
     "geolocation"
   ],
-  "author": "Rashid Shamloo",
-  "url": "https://github.com/rashidshamloo",
-  "email": "rashidshamloo@gmail.com",
+  "author": "Taro Shibusawa",
+  "email": "taro.n4g@gmail.com",
   "license": "GPL-3.0",
   "dependencies": {
     "fetch-multi-signal": "^1.0.3",
